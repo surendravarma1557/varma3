@@ -7,5 +7,5 @@ for i in range(0,n):
     if(i<n-1):
         kk=' '
     else:
-        kk=' '
+        kk=''
     print(k[i],end=kk)    
